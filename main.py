@@ -23,4 +23,3 @@ if __name__ == '__main__':
     print(f"OPENAI_API_KEY is: {os.environ['OPENAI_API_KEY']}")
     print('**********')
     main(url='https://medium.com/codex/an-overview-of-the-llamaindex-framework-9ee9db787d16')
-    
