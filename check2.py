@@ -1,6 +1,5 @@
 from llama_index.readers.web import BeautifulSoupWebReader
 
-# Initialize the reader
 reader = BeautifulSoupWebReader()
 
 # Define the URL to read
